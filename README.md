@@ -1,11 +1,11 @@
 ## Setup
 
-- See same config.json
-- Running manually, just execture `./run.sh`
+- See sample config.json
+- Running manually, just execute `./run.sh`
 
 ## Scheduling
 
-You can set your own cron jobs as follows
+You can set your own cron jobs as follows:
 
 ```
 # create a local log file
