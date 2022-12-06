@@ -1,0 +1,14 @@
+{
+    "URL": "https://touchontime.com/independent/recorder2/personal/",
+    "ID": "",
+    "PASS": "",
+    "START_TIME":{
+       "HOUR": 9,
+       "MINUTE": 30
+    },
+    "FINISH_TIME":{
+       "HOUR": 18,
+       "MINUTE": 30
+    },
+    "OFFSET_HOUR": 9
+ }
