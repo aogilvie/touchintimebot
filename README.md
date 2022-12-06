@@ -18,4 +18,6 @@ crontab -e
 * * * * * cd /home/ally/Documents/touchintimebot && ./run.sh > /home/ally/Documents/touchintimebot/output.log 2>&1
 ```
 
-![Crontab-ui Image](./crontab-ui.png)
+View log with:
+
+`tail -f output.log`
