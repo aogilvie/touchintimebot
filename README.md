@@ -3,7 +3,7 @@
 - See same config.json
 - Running manually, just execture `./run.sh`
 
-## Scheduleing
+## Scheduling
 
 You can set your own cron jobs as follows
 
